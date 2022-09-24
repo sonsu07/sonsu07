@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&height=200&section=header&text=SungsuLee&animation=fadeIn&fontColor=FFEC94&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E09E60&height=200&section=header&text=SungsuLee&animation=fadeIn&fontColor=F7E477&fontSize=90&fontAlignY=50)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
